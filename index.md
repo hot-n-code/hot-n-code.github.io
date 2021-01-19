@@ -2,7 +2,7 @@
 * [Meet the Team](#meet-the-team)
 
 ## Meet the Team:
-Sohpia C. <br />
+Sophia C. <br />
 Yiwen <br />
 Timothy <br />
 Chak <br />
