@@ -1,5 +1,6 @@
 # Table of Contents
 * [Meet the Team](#meet-the-team)
+* [Project Goals](#project-goals)
 
 ## Meet the Team:
 Sophia C. <br />
@@ -11,3 +12,5 @@ Jackie <br />
 Vince Khyla <br />
 Michael <br />
 Daphne <br />
+
+## Project Goals
