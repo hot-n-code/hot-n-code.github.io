@@ -22,4 +22,4 @@ their carbon footprints by opting for eco-friendly alternatives.
 ### Milestone 1: Mockup Development
 The goal for this milestone is to create mockup designs for the pages we want to implement for the web application. We also tried to recreate our designs in code to create a functional mockup.
 
-[]! (images/milestone1.png)
+![](images/milestone1.png)
