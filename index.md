@@ -19,5 +19,7 @@ To produce a successful application that allows users to track and visualize the
 their carbon footprints by opting for eco-friendly alternatives. 
 
 ## Development History
-### Milestone 1
+### Milestone 1: Mockup Development
 The goal for this milestone is to create mockup designs for the pages we want to implement for the web application. We also tried to recreate our designs in code to create a functional mockup.
+
+[]! (images/milestone1.png)
