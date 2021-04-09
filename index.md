@@ -1,10 +1,10 @@
 # Table of Contents
 * [Projects](#projects)
-  * [GHG Tracker](#ghg-tracker)
-* [Meet the Team](#meet-the-team)
+* [The Team](#the-team)
 
 # Projects
 ## GHG Tracker
+* [GHG Tracker](#ghg-tracker)
 ### Overview
 ![ci-badge](https://github.com/hot-n-code/ghg-tracker/workflows/hot-n-code-ghg-tracker/badge.svg)
 
@@ -14,7 +14,10 @@ GHG Tracker is a web application designed to track the carbon footprint that res
 
 This app allows users to update their daily mode of transportation and track the effect of each time they use a mode of transportation. The user will have a custom profile by adding their cars, alternative modes of transportation (bike, walk, bus, etc.), personal goals, and a history of their data. By using real data from all models and makes of cars, as the user continues to use the app, it will update and calculate the total amount of carbon produced, reduced, fuel saved and total miles traveled.
 
-# Meet the Team:
+# The Team:
+Hot-n-Code is a team of passionate and hard-working undergraduate students from the University of Hawai'i at Manoa. They were grouped together for a class (ICS 414: Software Engineering II), by their professor, Dr. Cameron Moore. Since then, they have been working as a team to develop the GHG-Tracker project for [Hawaiian Electric Industries](http://www.hei.com/).
+
+## Team Members
 - [Anna Campainha](https://github.com/annacampainha)
 - [Chak Hon Lam](https://github.com/chakhon)
 - [Daphne Tapia](https://github.com/dmtapia)
