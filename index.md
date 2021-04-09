@@ -3,8 +3,8 @@
 * [The Team](#the-team)
 
 # Projects
-## GHG Tracker
 * [GHG Tracker](#ghg-tracker)
+## GHG Tracker
 ### Overview
 ![ci-badge](https://github.com/hot-n-code/ghg-tracker/workflows/hot-n-code-ghg-tracker/badge.svg)
 
