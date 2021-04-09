@@ -6,15 +6,15 @@
 * [Development History](#development-history)
 
 ## Meet the Team:
-Sophia C. <br />
-Yiwen <br />
-Timothy <br />
-Chak <br />
-Anna <br />
-Jackie <br />
-Vince Khyla <br />
-Michael <br />
-Daphne <br />
+- [Anna Campainha](https://github.com/annacampainha)
+- [Chak Hon Lam](https://github.com/chakhon)
+- [Daphne Tapia](https://github.com/dmtapia)
+- [Jackie Wong](https://github.com/jackiewong99)
+- [Michael Gainey](https://github.com/micgainey)
+- [Sophia Cruz](https://github.com/sophiaelizecruz)
+- [Timothy Huo](https://github.com/timothyhuo1)
+- [Khyla Rabang](https://github.com/vrabang)
+- [Yiwen Chen](https://github.com/yiwenc22)
 
 ## Project Goals
 To produce a successful application that allows users to track and visualize their greenhouse gas emissions from transportation and persuade the community to reduce 
