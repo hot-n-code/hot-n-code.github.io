@@ -8,7 +8,7 @@
 ### Overview
 ![ci-badge](https://github.com/hot-n-code/ghg-tracker/workflows/hot-n-code-ghg-tracker/badge.svg)
 
-See our our project here: [Project Repository](https://github.com/hot-n-code/ghg-tracker)
+See our project here: [Project Repository](https://github.com/hot-n-code/ghg-tracker)
 
 GHG Tracker is a web application designed to track the carbon footprint that residents of Hawai’i produce and reduce. Our focus is on Greenhouse Gas Emissions (GHG) and how it is everyone’s responsibility. This web app focuses on tackling GHG from Transportation. Climate change has the potential to increase the severity and frequency of hurricanes, flooding, and droughts, and is expected to lead to increasing sea level rise. GHG is the most significant factor in climate change.
 
