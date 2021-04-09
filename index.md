@@ -1,3 +1,5 @@
+![ci-badge](https://github.com/ics-software-engineering/meteor-application-template-react/workflows/ci-meteor-application-template-react/badge.svg)
+
 # Table of Contents
 * [Meet the Team](#meet-the-team)
 * [Project Goals](#project-goals)
