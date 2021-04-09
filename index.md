@@ -6,7 +6,7 @@
 # Projects
 ## GHG Tracker
 ### Overview
-![ci-badge]![ci-badge](https://github.com/hot-n-code/ghg-tracker/workflows/hot-n-code-ghg-tracker/badge.svg)
+![ci-badge](https://github.com/hot-n-code/ghg-tracker/workflows/hot-n-code-ghg-tracker/badge.svg)
 
 See our our project here: [Project Repository](https://github.com/hot-n-code/ghg-tracker)
 
