@@ -2,10 +2,9 @@
 
 # Table of Contents
 * [Meet the Team](#meet-the-team)
-* [Project Goals](#project-goals)
-* [Development History](#development-history)
+* [GHG-Tracker](#ghg-tracker)
 
-## Meet the Team:
+# Meet the Team:
 - [Anna Campainha](https://github.com/annacampainha)
 - [Chak Hon Lam](https://github.com/chakhon)
 - [Daphne Tapia](https://github.com/dmtapia)
@@ -16,12 +15,8 @@
 - [Khyla Rabang](https://github.com/vrabang)
 - [Yiwen Chen](https://github.com/yiwenc22)
 
-## Project Goals
+# GHG-Tracker
+## About the project
+## Project goal
 To produce a successful application that allows users to track and visualize their greenhouse gas emissions from transportation and persuade the community to reduce 
 their carbon footprints by opting for eco-friendly alternatives. 
-
-## Development History
-### Milestone 1: Mockup Development
-The goal for this milestone is to create mockup designs for the pages we want to implement for the web application. We also tried to recreate our designs in code to create a functional mockup.
-
-![](images/milestone1.png)
