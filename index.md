@@ -28,3 +28,46 @@ Hot-n-Code is a team of passionate and hard-working undergraduate students from 
 - [Timothy Huo](https://github.com/timothyhuo1)
 - [Khyla Rabang](https://github.com/vrabang)
 - [Yiwen Chen](https://github.com/yiwenc22)
+
+
+# Screenshots
+
+Presented below is a walkthrough of the pages of our application. 
+
+## Landing Page
+
+- show cloud
+- video & links
+
+## About HEI
+
+## User's Pages - My Data and My Vehicles
+
+### See a breakdown of your GHG numbers by month
+
+- profile card & graph
+- edit profile
+- add data
+- ghg break down
+- leaf widget when completed - GIF IT!
+
+### My Transportation History
+
+- gif of paging through?
+- how to add - possibly also a GIF
+- WHAT IF: EMPHASIZE
+
+### Compare your data against the HEI Community
+
+- graph w/ message, and alternative options cards
+
+### Display the vehicles that you own
+
+- show vehicles, how to add
+- LATER: comparator when finalized
+
+## Cumulative Data
+
+## Administrative Pages - In progress
+
+### User List
