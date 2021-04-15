@@ -29,7 +29,6 @@ Hot-n-Code is a team of passionate and hard-working undergraduate students from 
 - [Khyla Rabang](https://github.com/vrabang)
 - [Yiwen Chen](https://github.com/yiwenc22)
 
-
 # Screenshots
 
 Presented below is a walkthrough of the pages of our application. 
@@ -45,6 +44,13 @@ and the importance of reducing our emissions through videos, news updates and a 
 A page describing the companies within the HEI sphere. 
 <img class="ui medium floated rounded image" src="/images/AboutHEI.png" length="800" width="1000">
 
+## Feedback 
+
+Feedback is appreciated as it helps to improve the application's functionalty. Users are able to submit feedback regarding features they want to see, problems that 
+may occur while using the applications or any questions regarding accessibility or about the organization and application. 
+
+<img class="ui medium floated rounded image" src="/images/Feedback.png" length="800" width="1000">
+
 ## User Pages - My Data and My Vehicles
 
 ### See a breakdown of your GHG numbers by month
@@ -54,9 +60,12 @@ user's  name and goal, as well as an option to edit their profile, use the what 
 breakdown of their GHG emissions by seeing what mode of transportation they use the most via the mileage breakdown, as well as how much CO2 they produce and 
 reduce, the number of alternative transportation miles they've traveled, and for the time being, the days they've worked at home.
 
+<img class="ui medium floated rounded image" src="/images/UserPagePt1.png" length="800" width="1000">
+
+The user's GHG breakdown for the month:
 <img class="ui medium floated rounded image" src="/images/UserPagePt2.png" length="800" width="1000">
 
-Edit your goal, name or profile picture.
+Edit your goal, name or profile picture:
 <img class="ui medium floated rounded image" src="/images/EditMyProfile.png" length="800" width="1000">
 
 
