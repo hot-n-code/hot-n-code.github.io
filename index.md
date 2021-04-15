@@ -170,3 +170,5 @@ may occur while using the applications or any questions regarding accessibility 
 
 <img class="ui medium floated rounded image" src="/images/Feedback.png" length="800" width="1000">
 
+
+***Next Steps: Coming soon***
