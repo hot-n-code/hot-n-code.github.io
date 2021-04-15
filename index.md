@@ -47,6 +47,7 @@ Presented below is a walkthrough of the pages of our application.
 
 ### See a breakdown of your GHG numbers by month
 
+<img class="ui medium floated rounded image" src="/images/UserPagePt1.png" length="800" width="1000">
 - profile card & graph
 - edit profile
 - add data
