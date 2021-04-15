@@ -43,30 +43,47 @@ and the importance of reducing our emissions through videos, news updates and a 
 
 ## About HEI
 
+A page describing the companies within the HEI sphere. 
+<img class="ui medium floated rounded image" src="/images/AboutHEI.png" length="800" width="1000">
+
 ## User's Pages - My Data and My Vehicles
 
 ### See a breakdown of your GHG numbers by month
 
-- profile card & graph
-- edit profile
-- add data
-- ghg break down
-- leaf widget when completed - GIF IT!
+Upon logging in, users are greeted by their data page: an overall breakdown over their GHG emissions for the month. The page includes a profile card with the user's
+name and goal, as well as an option to edit their profile, use the what if calculator, or view their transportation history. Users are also able to see a breakdown 
+of their GHG emissions by seeing what mode of transportation they use the most via the mileage breakdown, as well as how much CO2 they produce and reduce, the 
+number of alternative transportation miles they've traveled, and for the time being, the days they've worked at home.
+
+<img class="ui medium floated rounded image" src="/images/UserPagePt2.png" length="800" width="1000">
+
+### See how you compare!
+
 
 ### My Transportation History
 
-- gif of paging through?
-- how to add - possibly also a GIF
-- WHAT IF: EMPHASIZE
+Users are able to view their all time transportation history. Displayed before them is the date of their trip, the mode of transportation, miles traveled, and the 
+amount of CO2 reduced and produced for that trip. Similarly, users can add, edit, and delete their trip entries, as well as perform a what if calculation to 
+encourage them to pursue a form of alternative transportation. 
+<img class="ui medium floated rounded image" src="/images/TransportationHistory.png" length="800" width="1000">
 
 ### Compare your data against the HEI Community
 
-- graph w/ message, and alternative options cards
+Want to see where you stand in comparison to the HEI community? The application allows you to compare your CO2 produced and reduced against the average calculated 
+from the HEI community for the current month. Similarly, a message is displayed to the user to either commend their efforts if their CO2 reduced is greater than 
+the amount of CO2 that they have produced, or encourage them to consider their transportation choices if it is the other way around. 
+<img class="ui medium floated rounded image" src="/images/ComparisonPt1.png" length="800" width="1000">
+
+Regardless of one's CO2 efforts, the page also offers users modes of alternative transportation available to them across the state.
+<img class="ui medium floated rounded image" src="/images/ComparisonPt2.png" length="800" width="1000">
 
 ### Display the vehicles that you own
 
-- show vehicles, how to add
-- LATER: comparator when finalized
+Users can view the vehicles that they own as well as a short summary of their vehicle. 
+<img class="ui medium floated rounded image" src="/images/MyVehicles.png" length="800" width="1000">
+
+Users may also add their vehicles to their account to be factored into their travel data by searching through the various makes for their vehicle. 
+<img class="ui medium floated rounded image" src="/images/CreateVehicle.png" length="800" width="1000">
 
 ## Cumulative Data
 
@@ -77,7 +94,8 @@ As well as a breakdown of the community's CO2 produced, reduced, vehicle miles t
 <img class="ui medium floated rounded image" src="/images/CumulativePt2.png" length="800" width="1000">
 
 
-
-## Administrative Pages - In progress
+## Administrative Pages
 
 ### User List
+
+
