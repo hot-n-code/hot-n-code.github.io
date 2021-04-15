@@ -47,12 +47,14 @@ gases, and the importance of reducing our emissions through videos, news updates
 A page describing the companies within the HEI sphere. 
 <img class="ui medium floated rounded image" src="/images/AboutHEI.png" length="800" width="1000">
 
+
 ## Sign Up
 
 Those who are willing to track their GHG emissions can sign up for an account. Users can fill out the necessary fields to create an account.
 
 <img class="ui medium floated rounded image" src="/images/SignUp.png" length="800" width="1000">
 
+<img class="ui medium floated rounded image" src="/images/CreateProfile.png" length="800" width="1000">
 
 ## Sign In
 
@@ -112,6 +114,12 @@ Considering a mode of alternative transportation:
 
 <img class="ui medium floated rounded image" src="/images/GoodJob.png" length="800" width="1000">
 
+### My Overall Transportation Breakdown
+
+Users can see their all time breakdown of the miles traveled, fuel saved and CO2 reduced for their alternative modes of transportation.
+
+<img class="ui medium floated rounded image" src="/images/AlternativeOverall.png" length="800" width="1000">
+
 
 ### Compare your data against the HEI Community!
 
@@ -148,6 +156,12 @@ As well as a breakdown of the community's CO2 produced, reduced, vehicle miles t
 ## Administrative Pages
 
 ### User List
+The administrators of the site are given a list of all of the users in the HEI application's database, and are given the power to delete users, as well as display 
+the users by certain attributes. Similarly, the administrator may search for a certain user by keywords. They are also able to view the cumulative data page.
+
+<img class="ui medium floated rounded image" src="/images/AdminList.png" length="800" width="1000">
+
+<img class="ui medium floated rounded image" src="/images/AdminExample.png" length="800" width="1000">
 
 ## Feedback 
 
