@@ -115,8 +115,13 @@ Regardless of one's CO2 efforts, the page also offers users modes of alternative
 Users can view the vehicles that they own as well as a short summary of their vehicle. 
 <img class="ui medium floated rounded image" src="/images/MyVehicles.png" length="800" width="1000">
 
-Users may also add their vehicles to their account to be factored into their travel data by searching through the various makes for their vehicle. 
+Users may also add their vehicles to their account to be factored into their travel data by searching through the various makes for their vehicle. Search for the 
+make and model of your car in our database!
+
 <img class="ui medium floated rounded image" src="/images/CreateVehicle.png" length="800" width="1000">
+
+<img class="ui medium floated rounded image" src="/images/Makes.png" length="800" width="1000">
+
 
 ## Cumulative Data
 
