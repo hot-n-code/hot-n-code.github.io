@@ -44,12 +44,19 @@ and the importance of reducing our emissions through videos, news updates and a 
 A page describing the companies within the HEI sphere. 
 <img class="ui medium floated rounded image" src="/images/AboutHEI.png" length="800" width="1000">
 
-## Feedback 
+## Sign Up
 
-Feedback is appreciated as it helps to improve the application's functionalty. Users are able to submit feedback regarding features they want to see, problems that 
-may occur while using the applications or any questions regarding accessibility or about the organization and application. 
+Those who are willing to track their GHG emissions can sign up for an account. Users can fill out the necessary fields to create an account.
 
-<img class="ui medium floated rounded image" src="/images/Feedback.png" length="800" width="1000">
+<img class="ui medium floated rounded image" src="/images/SignUp.png" length="800" width="1000">
+
+
+## Sign In
+
+Returning user? They can login via the navigation bar, or from the footer. 
+
+<img class="ui medium floated rounded image" src="/images/SignIn.png" length="800" width="1000">
+
 
 ## User Pages - My Data and My Vehicles
 
@@ -75,6 +82,23 @@ Users are able to view their all time transportation history. Displayed before t
 amount of CO2 reduced and produced for that trip. Similarly, users can add, edit, and delete their trip entries, as well as perform a what if calculation to 
 encourage them to pursue a form of alternative transportation. 
 <img class="ui medium floated rounded image" src="/images/TransportationHistory.png" length="800" width="1000">
+
+### What If
+
+Not convinced of the benefits of alternative transportation? The what if function allows users to calculate their GHG numbers before they make their trip. Users
+can input their planned travel details by inputting a mode of transportation as well as the distance traveled for their trip. 
+
+<img class="ui medium floated rounded image" src="/images/WhatIf.png" length="800" width="1000">
+
+What if with a user's gas vehicle:
+
+<img class="ui medium floated rounded image" src="/images/WhatIfDemo1.png" length="800" width="1000">
+<img class="ui medium floated rounded image" src="/images/WhatIfDemoResult.png" length="800" width="1000">
+
+Considering a mode of alternative transportation:
+
+<img class="ui medium floated rounded image" src="/images/GoodJob.png" length="800" width="1000">
+
 
 ### Compare your data against the HEI Community!
 
@@ -107,4 +131,10 @@ As well as a breakdown of the community's CO2 produced, reduced, vehicle miles t
 
 ### User List
 
+## Feedback 
+
+Feedback is appreciated as it helps to improve the application's functionalty. Users are able to submit feedback regarding features they want to see, problems that 
+may occur while using the applications or any questions regarding accessibility or about the organization and application. 
+
+<img class="ui medium floated rounded image" src="/images/Feedback.png" length="800" width="1000">
 
