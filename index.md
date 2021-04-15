@@ -36,8 +36,10 @@ Presented below is a walkthrough of the pages of our application.
 
 ## Landing Page
 
-- show cloud
-- video & links
+Upon entering the site, the user is greeted by the landing page. This gives the user an overview of what the application is, information regarding greenhouse gases, 
+and the importance of reducing our emissions through videos, news updates and a visual depicting the carbon saved to date. 
+<img class="ui medium floated rounded image" src="/images/LandingPage.png" length="800" width="1000">
+
 
 ## About HEI
 
@@ -45,7 +47,6 @@ Presented below is a walkthrough of the pages of our application.
 
 ### See a breakdown of your GHG numbers by month
 
-<img class="ui medium floated rounded image" src="/images/UserPagePt1.png" length="800" width="1000">
 - profile card & graph
 - edit profile
 - add data
@@ -68,6 +69,14 @@ Presented below is a walkthrough of the pages of our application.
 - LATER: comparator when finalized
 
 ## Cumulative Data
+
+Users may view the cumulative data of the HEI community. They are able to view the number of users that use a certain form of transportation:
+<img class="ui medium floated rounded image" src="/images/CumulativePt1.png" length="800" width="1000">
+
+As well as a breakdown of the community's CO2 produced, reduced, vehicle miles traveled, and gallons of gas saved:
+<img class="ui medium floated rounded image" src="/images/CumulativePt2.png" length="800" width="1000">
+
+
 
 ## Administrative Pages - In progress
 
