@@ -133,7 +133,7 @@ Regardless of one's CO2 efforts, the page also offers users modes of alternative
 
 ### My Vehicles
 
-Users can view the vehicles that they own as well as a short summary of their vehicle. 
+Users can view the vehicles that they own as well as a short summary of each of their vehicles. 
 <img class="ui medium floated rounded image" src="/images/MyVehicles.png" length="800" width="1000">
 
 Users may also add their vehicles to their account to be factored into their travel data by searching through the various makes for their vehicle. Search for the 
