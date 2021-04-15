@@ -39,6 +39,9 @@ Upon entering the site, the user is greeted by the landing page. This gives the 
 gases, and the importance of reducing our emissions through videos, news updates and a visual depicting the carbon saved to date. 
 <img class="ui medium floated rounded image" src="/images/LandingPage.png" length="800" width="1000">
 
+<img class="ui medium floated rounded image" src="/images/Cloud.png" length="800" width="1000">
+
+
 <img class="ui medium floated rounded image" src="/images/LandingNews.png" length="800" width="1000">
 
 
