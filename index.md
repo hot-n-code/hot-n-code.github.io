@@ -116,7 +116,8 @@ Considering a mode of alternative transportation:
 
 ### My Overall Transportation Breakdown
 
-Users can see their all time breakdown of the miles traveled, fuel saved and CO2 reduced for their alternative modes of transportation.
+Users can see their all time breakdown of the miles traveled, fuel saved and CO2 reduced for their alternative modes of transportation. Similarly, they can view
+a leaf widget that displays the amount of CO2 that the user has saved, and their numbers in terms of trees: i.e. number of trees to absorb that amount of CO2 gas.
 
 <img class="ui medium floated rounded image" src="/images/AlternativeOverall.png" length="800" width="1000">
 
