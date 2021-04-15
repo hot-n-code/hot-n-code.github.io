@@ -35,9 +35,12 @@ Presented below is a walkthrough of the pages of our application.
 
 ## Landing Page
 
-Upon entering the site, the user is greeted by the landing page. This gives the user an overview of what the application is, information regarding greenhouse gases, 
-and the importance of reducing our emissions through videos, news updates and a visual depicting the carbon saved to date. 
+Upon entering the site, the user is greeted by the landing page. This gives the user an overview of what the application is, information regarding greenhouse 
+gases, and the importance of reducing our emissions through videos, news updates and a visual depicting the carbon saved to date. 
 <img class="ui medium floated rounded image" src="/images/LandingPage.png" length="800" width="1000">
+
+<img class="ui medium floated rounded image" src="/images/LandingNews.png" length="800" width="1000">
+
 
 ## About HEI
 
@@ -83,10 +86,20 @@ amount of CO2 reduced and produced for that trip. Similarly, users can add, edit
 encourage them to pursue a form of alternative transportation. 
 <img class="ui medium floated rounded image" src="/images/TransportationHistory.png" length="800" width="1000">
 
+To aid users, the add function has saved trip data for work and other places that the user may frequently travel to through specifying their destination.
+<img class="ui medium floated rounded image" src="/images/AddTransportationDemo1.png" length="800" width="1000">
+
+Otherwise, the user may enter the data manually through the **Other** option. Users can specify if the trip is a roundtrip, as well as the distance traveled in 
+either miles or kilometers.
+
+<img class="ui medium floated rounded image" src="/images/AddTransportationDemo2.png" length="800" width="1000">
+
+
 ### What If
 
 Not convinced of the benefits of alternative transportation? The what if function allows users to calculate their GHG numbers before they make their trip. Users
-can input their planned travel details by inputting a mode of transportation as well as the distance traveled for their trip. 
+can input their planned travel details by inputting a mode of transportation as well as the distance traveled for their trip. Accessible in both miles and 
+kilometers.
 
 <img class="ui medium floated rounded image" src="/images/WhatIf.png" length="800" width="1000">
 
