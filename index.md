@@ -36,6 +36,8 @@ Presented below is a walkthrough of the pages of our application.
 
 ## Landing Page
 
+<img class="ui medium floated rounded image" src="/images/LandingPagePt1.png" length="800" width="1000">
+
 - show cloud
 - video & links
 
