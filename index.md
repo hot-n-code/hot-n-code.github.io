@@ -162,7 +162,7 @@ may occur while using the applications or any questions regarding accessibility 
 <img class="ui medium floated rounded image" src="/images/Feedback.png" length="800" width="1000">
 
 # The Team:
-Hot-n-Code is a team of passionate and hard-working undergraduate students from the University of Hawai'i at Manoa. They were grouped together for a class (ICS 414: Software Engineering II), by their professor, Dr. Cameron Moore. Since then, they have been working as a team to develop the GHG-Tracker project for [Hawaiian Electric Industries](http://www.hei.com/).
+Hot-n-Code is a team of passionate and hard-working undergraduate students from the University of Hawai'i at Manoa. They were grouped together for a class (ICS 414: Software Engineering II), by their professor, Dr. Carleton Moore. Since then, they have been working as a team to develop the GHG-Tracker project for [Hawaiian Electric Industries](http://www.hei.com/).
 
 ## Team Members
 - [Anna Campainha](https://github.com/annacampainha)
