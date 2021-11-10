@@ -167,7 +167,7 @@ Hot-n-Code is a team of passionate and hard-working undergraduate students from 
 ## Team Members
 - [Anna Campainha](https://github.com/annacampainha)
 - [Chak Hon Lam](https://github.com/chakhon)
-- [Daphne Tapia](https://github.com/dmtapia)
+- [Daphne Tapia](https://dmtapia.github.io)
 - [Jackie Wong](https://github.com/jackiewong99)
 - [Michael Gainey](https://github.com/micgainey)
 - [Sophia Cruz](https://github.com/sophiaelizecruz)
